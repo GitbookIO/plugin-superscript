@@ -15,7 +15,7 @@ Configure the plugin in your `book.json`:
 Then in your markdown/asciidoc content:
 
 ```md
-Hello world. {% sup %}superscript text!{% endem %}
+Hello world. {% sup %}superscript text!{% endsup %}
 
-And with a link. {% sup href="https://www.google.fr" %}4{% endem %}
+And with a link. {% sup href="https://www.google.fr" %}4{% endsup %}
 ```
