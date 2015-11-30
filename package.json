@@ -1,0 +1,18 @@
+{
+    "name": "gitbook-plugin-superscript",
+    "description": "Use superscript in your markdown",
+    "main": "index.js",
+    "version": "0.0.0",
+    "engines": {
+        "gitbook": ">=2.0.0"
+    },
+    "homepage": "https://github.com/GitbookIO/plugin-superscript",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/GitbookIO/plugin-superscript.git"
+    },
+    "license": "Apache-2.0",
+    "bugs": {
+        "url": "https://github.com/GitbookIO/plugin-superscript/issues"
+    }
+}
