@@ -16,7 +16,7 @@
         "url": "https://github.com/GitbookIO/plugin-superscript/issues"
     },
     "devDependencies": {
-        "gitbook-tester": "1.0.2",
+        "gitbook-tester": "1.0.3",
         "mocha": "2.3.4"
     },
     "scripts": {
