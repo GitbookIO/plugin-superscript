@@ -18,4 +18,6 @@ Then in your markdown/asciidoc content:
 Hello world. {% sup %}superscript text!{% endsup %}
 
 And with a link. {% sup href="https://www.google.fr" %}4{% endsup %}
+
+And with markdown. {% sup %}**4**{% endsup %}
 ```

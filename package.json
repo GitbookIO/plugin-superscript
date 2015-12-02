@@ -4,7 +4,7 @@
     "main": "index.js",
     "version": "1.0.1",
     "engines": {
-        "gitbook": ">=2.0.0"
+        "gitbook": ">=2.6.3"
     },
     "homepage": "https://github.com/GitbookIO/plugin-superscript",
     "repository": {

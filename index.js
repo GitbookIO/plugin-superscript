@@ -11,7 +11,10 @@ module.exports = {
                     inner = '<a href="'+href+'" target="'+target+'">'+inner+'</a>';
                 }
 
-                return '<sup>'+inner+'</sup>';
+                return {
+                    parse: true,
+                    body: '<sup>'+inner+'</sup>'
+                };
             }
         }
     }
